@@ -1,1 +1,26 @@
-2.1.0
+{
+  "tag_name": "v2.1.0",
+  "name": "Release 2.1.0 - Atualização Geral",
+  "body": "## 🚀 Novidades\n- Novo módulo de relatórios\n- Integração com API externa\n\n## 🐛 Correções\n- Ajuste no login\n- Correção de falha no carregamento\n\n## ⚙️ Melhorias\n- Performance otimizada",
+  "html_url": "https://github.com/usuario/repositorio/releases/tag/v2.1.0",
+  "assets": [
+    {
+      "name": "Setup.exe",
+      "browser_download_url": "https://github.com/usuario/repositorio/releases/download/v2.1.0/Setup.exe",
+      "size": 25432100,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "name": "Portable.zip",
+      "browser_download_url": "https://github.com/usuario/repositorio/releases/download/v2.1.0/Portable.zip",
+      "size": 18345000,
+      "content_type": "application/zip"
+    },
+    {
+      "name": "release-notes.txt",
+      "browser_download_url": "https://github.com/usuario/repositorio/releases/download/v2.1.0/release-notes.txt",
+      "size": 2048,
+      "content_type": "text/plain"
+    }
+  ]
+}
